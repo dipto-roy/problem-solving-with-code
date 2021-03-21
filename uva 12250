@@ -1,3 +1,6 @@
+#include <bits/stdc++.h>
+using namespace std;
+int main ()
 {
 	int cnt = 1;
 	char s[20];
