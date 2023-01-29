@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     BOOST
-
+    //when you use this code must chosses one code and remove comment
     //this code use bruteforce:-
    /*int x;
    scanf("%i",&x);
